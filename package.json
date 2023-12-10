@@ -2,7 +2,7 @@
   "name": "tie-up-club",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://garje-akshay.github.io/tie-up-club/",
+  "homepage": "https://garje-akshay.github.io/tie-up-club",
   "type": "module",
   "scripts": {
     "dev": "vite",
